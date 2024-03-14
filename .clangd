@@ -1,0 +1,11 @@
+CompileFlags:
+    Add: [-xc++,-std=c++23]
+    Compiler: g++
+InlayHints:
+    Enabled: No
+Diagnostics:
+    Suppress: builtin_definition
+Index:
+    Background: Skip
+Hover:
+    ShowAKA: Yes
